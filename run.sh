@@ -29,5 +29,5 @@ docker compose exec ${SVC_NAME} bash
 
 # I use it for stops and remove containers
 # But if for some reasone you still needed just comment it
-echo "✅ Cleaneng and stops container..."
+echo "✅ Cleaning up and stopping container..."
 docker compose down
